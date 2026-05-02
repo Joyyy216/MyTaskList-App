@@ -21,10 +21,7 @@
 
 ## 📱 Screenshot Aplikasi
 
-*(Tambahkan screenshot dari HP di sini)*
-
-(./assets/ss1.jpeg)
-(./assets/ss2.jpeg)
+ss1.jpeg
 
 ---
 
