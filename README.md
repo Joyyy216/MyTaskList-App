@@ -1,7 +1,7 @@
 # 📋 MyTaskList App
 
-* **Nama:** [Joyce Putri Pasaribu]
-* **NIM:** [243303621234]
+* **Nama:** Joyce Putri Pasaribu
+* **NIM:** 243303621234
 
 ---
 
@@ -23,8 +23,8 @@
 
 *(Tambahkan screenshot dari HP di sini)*
 
-![Screenshot 1](./assets/ss1.jpeg)
-![Screenshot 2](./assets/ss2.jpeg)
+(./assets/ss1.jpeg)
+(./assets/ss2.jpeg)
 
 ---
 
