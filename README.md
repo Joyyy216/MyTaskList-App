@@ -21,8 +21,8 @@
 
 ## 📱 Screenshot Aplikasi
 
-ss1.jpeg
-ss2.jpeg
+<img src="assets/ss1.jpeg" width="300"/>
+<img src="assets/ss2.jpeg" width="300"/>
 ---
 
 ## ⚙️ Cara Menjalankan Project
