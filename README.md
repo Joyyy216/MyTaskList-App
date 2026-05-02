@@ -22,7 +22,7 @@
 ## 📱 Screenshot Aplikasi
 
 ss1.jpeg
-
+ss2.jpeg
 ---
 
 ## ⚙️ Cara Menjalankan Project
